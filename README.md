@@ -33,6 +33,6 @@
 📚 Sempre que possível estudo Inglês no duolingo e em chamadas com pessoas estrangeiras.
 
 <div align="center">
-<a href="guilhermepenamatsumura@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"width="80" height="28" /></a>
+<!-- <a href="guilhermepenamatsumura@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"width="80" height="28" /></a> -->
 <a href="https://www.linkedin.com/in/guilhermematsumura/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="28"/></a>
 </div>
