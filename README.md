@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Olá! Sejam bem vindos e bem vindas ao meu perfil!</h1>
 <br>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="250" alt="programming"/>
+<img src="https://data.whicdn.com/images/309541334/original.gif" width="750" height="300" alt="programming"/>
 <br>
 </div>
 <br>
