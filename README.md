@@ -9,7 +9,7 @@
 👋🏽 Meu nome é <b>Guilherme Pena Matsumura</b>, tenho 22 anos de idade e atualmente vivo em São Gonçalo, RJ.
 
 <p></p>
-💻 Sou estudante Web Full stack e tenho desenvolvido algumas habilidades, como:
+🎓 Estou cursando <b>análise e desenvolvimento de sistemas</b> 1º/5º - PUC MINAS. Estudo principalmente Web Full stack e tenho desenvolvido algumas habilidades, como:
 <p></p>
 
 <div align="center">
